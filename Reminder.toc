@@ -2,8 +2,9 @@
 # Supported client flavors load their own TOC file and unsupported ones fall back to this one.
 # Check expansion specific TOC files for the correct data.
 ## Interface: 00000
-## Title: Reminder addon
-## Notes: Reminds you to reload on a schedule
+## Version: 0.1.00
+## Title: Reload Reminder
+## Notes: Reminds you to reload your UI on a fixed schedule
 
 Reminder.lua
 Reminder.xml
